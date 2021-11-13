@@ -40,7 +40,7 @@ Allows to mint ibBTC given tokenized bitcoin e.g. renBTC
 2. ibBTC VaultZap.sol
 Given ibBTC deposit wibBTC (via the wrapper, part of the previous Badger contest) to mint the Curve LP Token for the ibBTC Curve Pool
 
-3. ibBTC CurveZap.sol
+3. ibBTC CurveZap.vy
 Given renBTC, mint ibBTC, use it to provide liquidity in the ibBTC Curve Pool and stake it in the ibBTC Staking Sett
 
 4. SettToRenIbbtcZap.sol
@@ -54,7 +54,7 @@ See this Miro Board: https://miro.com/app/board/o9J_lj6ilMk=/?invite_link_id=817
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | 1. ibBTC Zap.sol         | https://github.com/Badger-Finance/ibbtc/blob/d8b95e8d145eb196ba20033267a9ba43a17be02c/contracts/Zap.sol                               |
 | 2. ibBTC VaultZap.sol    | https://github.com/Badger-Finance/badger-ibbtc-utility-zaps/blob/6f700995129182fec81b772f97abab9977b46026/contracts/IbbtcVaultZap.sol |
-| 3. ibBTC CurveZap.sol    | https://github.com/Badger-Finance/badger-ibbtc-utility-zaps/blob/main/contracts/IbbtcVaultZap.sol                                     |
+| 3. ibBTC CurveZap.vy   | https://github.com/Badger-Finance/ibbtc-curve-zap/blob/master/contracts/DepositZapibBTC.vy                                   |
 | 4. SettToRenIbbtcZap.sol | https://github.com/Badger-Finance/badger-ibbtc-utility-zaps/blob/main/contracts/SettToRenIbbtcZap.sol                                 |
 
 
