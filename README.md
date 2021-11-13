@@ -54,7 +54,7 @@ See this Miro Board: https://miro.com/app/board/o9J_lj6ilMk=/?invite_link_id=817
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | 1. ibBTC Zap.sol         | https://github.com/Badger-Finance/ibbtc/blob/d8b95e8d145eb196ba20033267a9ba43a17be02c/contracts/Zap.sol                               |
 | 2. ibBTC VaultZap.sol    | https://github.com/Badger-Finance/badger-ibbtc-utility-zaps/blob/6f700995129182fec81b772f97abab9977b46026/contracts/IbbtcVaultZap.sol |
-| 3. ibBTC CurveZap.sol    | https://github.com/Badger-Finance/ibbtc-curve-zap/tree/47a9964d17f9c5bea314d21186773aef99012153                                       |
+| 3. ibBTC CurveZap.sol    | https://github.com/Badger-Finance/badger-ibbtc-utility-zaps/blob/main/contracts/IbbtcVaultZap.sol                                     |
 | 4. SettToRenIbbtcZap.sol | https://github.com/Badger-Finance/badger-ibbtc-utility-zaps/blob/main/contracts/SettToRenIbbtcZap.sol                                 |
 
 
