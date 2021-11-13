@@ -47,7 +47,7 @@ Given renBTC, mint ibBTC, use it to provide liquidity in the ibBTC Curve Pool an
 Given a Sett Token (badger vault), use the underlying to mint ibBTC via the renBTC Zap
 
 ## Visualization
-See this Miro Board: https://miro.com/app/board/o9J_lj6ilMk=/?invite_link_id=817586510706
+See this Miro Board: https://miro.com/app/board/o9J_lj8o-EM=/?invite_link_id=980480935731
 
 ## Contracts
 | Contract              | Link                                                                                                                                  |
