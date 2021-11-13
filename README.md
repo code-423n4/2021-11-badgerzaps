@@ -20,10 +20,10 @@ ibBTC is a basket of BadgerSettToken (bTokens)
 These tokens can be used to mint or redeem from and into ibBTC
 
 These are 4 zaps meant to:
--> Facilitate minting of ibBTC
--> Facilitate adding ibBTC to a Staking Vault
--> Facilitate swapping to tokenized bitcoin and bTokens (Badger Vaults Tokens) to ibBTC via Zaps
--> Providing liquidity of ibBTC in the ibBTC Curve Pool
+- Facilitate minting of ibBTC
+- Facilitate adding ibBTC to a Staking Vault
+- Facilitate swapping to tokenized bitcoin and bTokens (Badger Vaults Tokens) to ibBTC via Zaps
+- Providing liquidity of ibBTC in the ibBTC Curve Pool
 
 The goal of this contest is to determine if the below listed zaps are:
 - Safe to use
